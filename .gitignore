@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+vim-markdown-preview.html
+my-app/node_modules/
