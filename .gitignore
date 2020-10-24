@@ -104,3 +104,4 @@ dist
 .tern-port
 
 vim-markdown-preview.html
+my-app/node_modules/
